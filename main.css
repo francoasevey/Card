@@ -20,3 +20,11 @@ main{
     padding: 0;
     list-style-type: none;
 }
+.card{
+    position: relative;
+    display: block;
+    height: 100%;
+    border-radius: calc(var(--curve)*1px);
+    overflow: hidden;
+    text-decoration: none;
+}
