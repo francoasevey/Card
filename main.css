@@ -1,0 +1,11 @@
+body{
+    font-family: monospace;
+    background-color: #D7BDCA;
+}
+:root{
+    --surface-color:white;
+    --curve:40;
+}
+*{
+    box-sizing: border-box;
+}
